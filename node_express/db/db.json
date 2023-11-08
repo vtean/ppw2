@@ -1,0 +1,17 @@
+{
+    "students": [],
+    "specialties": [
+        {
+            "id": 1,
+            "name": "Informatica"
+        },
+        {
+            "id": 2,
+            "name": "Matematica"
+        },
+        {
+            "id": 3,
+            "name": "Fizica"
+        }
+    ]
+}
